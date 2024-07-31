@@ -1,0 +1,20 @@
+{
+  "name": "backendji",
+  "version": "1.0.0",
+  "description": "backend sikho",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "ji",
+    "sikho"
+  ],
+  "author": "Manshu Saini",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
